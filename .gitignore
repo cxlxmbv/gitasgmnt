@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Compiled files and build artifacts
+*.class
+*.o
+*.exe
+
+# Dependencies
+node_modules/
+vendor/
+packages/
+
+# Sensitive information
+.env
+config/secrets.yml
+
+# Log files
+*.log
